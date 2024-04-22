@@ -1,0 +1,47 @@
+
+h3{
+    background-color: rgb(96, 96, 96);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left:10px ;
+}
+
+h2{
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left:10px ;
+}
+
+.img{
+    width: 600px;
+    height: 300px;
+    margin: 0px 350px;
+}
+
+.header1{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(180, 180, 180);
+    opacity: 0.7;
+}
+
+.header1 a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 8px 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.head1{
+    background-color: black;
+    color: white;
+    margin-top: 70px;
+}
